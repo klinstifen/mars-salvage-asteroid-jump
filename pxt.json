@@ -1,0 +1,19 @@
+{
+    "name": "mars salvage asteroid jump",
+    "dependencies": {
+        "device": "*",
+        "palette": "*",
+        "animation": "*",
+        "storyboard": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
